@@ -1,0 +1,37 @@
+{
+  "name": "attachment.directive",
+  "authors": [
+    "Zakaria KAOUKAB <Zkaoukab@omnidata.ma>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.6",
+    "angular-ui": "^0.4.0",
+    "angular-messages": "^1.6.6",
+    "angular-sanitize": "^1.6.6",
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.14.3",
+    "angular-translate": "^2.15.2",
+    "angular-material": "^1.1.5",
+    "angular-translate-loader-static-files": "^2.15.2"
+  },
+  "_release": "52ac58253e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "52ac58253eeb822173dab3523040701bfcb92279"
+  },
+  "_source": "http://10.10.1.170:10080/os-angularjs/omni-attachement.git",
+  "_target": "*",
+  "_originalSource": "http://10.10.1.170:10080/os-angularjs/omni-attachement.git"
+}

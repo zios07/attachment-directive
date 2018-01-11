@@ -1,0 +1,36 @@
+{
+  "attachment" : {
+    "placeholders": {
+      "name" : "Nom du fichier"
+    },
+  	"items" : {
+  		"name" : "Nom",
+  		"size" : "Taille",
+  		"extension" : "Extension"
+  	},
+  	"message" : {
+  		"error" : {
+  			"file" : {
+  				"large-size" : "La taille ne doit pas dépasser 17MB",
+  				"no-name" : "Le nom est requis",
+  				"no-file-selected" : "Aucun fichier choisi"
+  			},
+  			"server" : "Serveur inaccessible, réessayez plus tard",
+        "no-data" : "Aucun attachment trouvé",
+  			"default" : "Erreur inattendue survenue"
+  		},
+  		"success" : {
+  			"upload" : "Upload effectué avec succès",
+  			"delete" : "Suppression effectué avec succès"
+  		}
+  	},
+  	"dialog" : {
+  		"delete" : {
+  			"title" : "Voulez-vous supprimer l'attachment ?",
+  			"arialabel" : "Suppression d'attachment",
+  			"ok" : "Oui, supprimer",
+  			"cancel" : "Annuler"
+  		}
+  	}
+  }
+}

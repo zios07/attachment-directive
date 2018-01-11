@@ -1,0 +1,37 @@
+{
+  "name": "attachment.directive",
+  "authors": [
+    "Zakaria KAOUKAB <Zkaoukab@omnidata.ma>"
+  ],
+  "description": "",
+  "main": [
+    "attachment.module.js",
+    "lang-en.json",
+    "lang-fr.json",
+    "attachment.directive.js",
+    "attachment.service.js",
+    "style.css"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.3",
+    "angular-ui": "^0.4.0",
+    "angular-messages": "~1.5.3",
+    "angular-sanitize": "~1.5.3",
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.14.3",
+    "angular-translate": "^2.11.0",
+    "angular-material": "^1.1.5",
+    "angular-translate-loader-static-files": "^2.11.0",
+    "angular-animate": "~1.5.3",
+    "angular-aria": "~1.5.3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "attachment" : {
+    "placeholders": {
+      "name" : "File name"
+    },
+  	"items" : {
+  		"name" : "Name",
+  		"size" : "Size",
+  		"extension" : "Extension"
+  	},
+  	"message" : {
+  		"error" : {
+  			"file" : {
+  				"large-size" : "Size cannot exceed 17MB",
+  				"no-name" : "Name is required",
+  				"no-file-selected" : "No file chosen"
+  			},
+  			"server" : "Server unreachable, try again later",
+        "no-data" : "No attachment found",
+  			"default" : "An unexpected error occured"
+  		},
+  		"success" : {
+  			"upload" : "Attachment uploaded successfully",
+  			"delete" : "Attachment deleted successfully"
+  		}
+  	},
+  	"dialog" : {
+  		"delete" : {
+  			"title" : "Do you want to delete this attachment?",
+  			"arialabel" : "Attachment deletion",
+  			"ok" : "Yes, delete it",
+  			"cancel" : "Cancel"
+  		}
+  	}
+  }
+}
